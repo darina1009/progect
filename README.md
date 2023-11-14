@@ -1,1 +1,3 @@
-# progect
+## progect
+
+**git clone** - клонирование репозитория
